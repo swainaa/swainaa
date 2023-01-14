@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swainaa
-- 👀 I’m interested in Coding, Automation, Cloud, Big Data
+- 👀 I’m interested in Coding, Automation, Cloud, Big Data, AI
 - 🌱 I’m currently learning Azure/AWS
 - 💞️ I’m looking to collaborate on Full Stack dev projects
 - 📫 How to reach me :aakash.swaine@gmail.com
